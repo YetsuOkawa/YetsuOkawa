@@ -18,6 +18,7 @@
 
 ### Contact me
   <a href="yosernaquel@ucvvirtual.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Gmail-yosernaquel@ucvvirtual.edu.pe-blue?style=flat-square&logo=gmail"></a>  
+  
   ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=YetsuOkawa&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YetsuOkawa&label=Profile%20views&color=0e75b6&style=flat" alt="YetsuOkawa" /> </p>
